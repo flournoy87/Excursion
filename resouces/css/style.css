@@ -1,0 +1,19 @@
+/* All */
+* {
+    background-color: black;
+    text-align: center;
+}
+
+/* Header */
+header {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: White;
+}
+
+/* Download link */
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
