@@ -3,7 +3,7 @@
     background-color: black;
     text-align: center;
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
 /* Header */
@@ -13,6 +13,10 @@ header h1 {
 }
 
 /* Body */
+
+main {
+    margin-bottom: 20px;
+}
 
 /* Download link */
 a {
@@ -28,6 +32,7 @@ h2 {
 h4 {
     font-size: 21px;
     color: gray;
+    font-weight: normal;
 }
 
 /* Footer */
@@ -35,5 +40,6 @@ h4 {
 .footer {
     text-align: right;
     color: gray;
-    font-size: 20px;
+    font-size: 21px;
+    margin-bottom: 20px;
 }
